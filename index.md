@@ -1,8 +1,5 @@
-## Welcome 
+# The Projects repository contains below projects: 
 
-
-
-### The Projects repository contains below projects: 
 
 # 1. Loan Defaulter Prediction
 
@@ -12,7 +9,8 @@
 
 ## Environment : Jupyter notebook
 
-# The way the projects are done is as follows:
+
+## The way the projects are done is as follows:
 ## The tasks are divided into below points:
 1. Basic screening
 2. Data Preprocessing
