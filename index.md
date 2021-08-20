@@ -1,35 +1,22 @@
 ## Welcome 
 
-The Projects contains below projects:
-
-### Markdown
-
-1. Loan Defaulter Prediction
 
 
-```markdown
+### The Projects repository contains below projects: 
 
-# Header 1
-## Header 2
-### Header 3
+# 1. Loan Defaulter Prediction
 
-- Bulleted
-- List
+## Description : Whenever an individual/corporation applies for a loan from a bank, their credit history undergoes a rigorous check to ensure that whether they are capable enough to pay off the loan. We have to build a model to automate this process of loan defaulter prediction to help decide whether to issue the loan to the individual or corporation.
 
-1. Numbered
-2. List
+## Language : Python
 
-**Bold** and _Italic_ and `Code` text
+## Environment : Jupyter notebook
 
-[Link](url) and ![Image](src)
-```
+# The way the projects are done is as follows:
+## The tasks are divided into below points:
+1. Basic screening
+2. Data Preprocessing
+3. Feature Engineering and EDA
+5. Model Building
+6. Conclusions
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sneha1-1/Projects/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
