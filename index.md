@@ -1,3 +1,4 @@
+
 # The Projects repository contains below projects: 
 
 
@@ -8,13 +9,13 @@
 ### Language : Python
 
 ### Environment : Jupyter notebook
-### Path : <a href="https://github.com/Sneha1-1/Projects/tree/main/Loan_Defaulter_Prediction" > Loan Defaulter prediction</a>
+### Path : <a style="color:green" href="https://github.com/Sneha1-1/Projects/tree/main/Loan_Defaulter_Prediction" > Loan Defaulter prediction</a>
 
 
 
 ## The Projects are divided into 6 sections :
 
-1. <a href="https://github.com/Sneha1-1/Projects/blob/main/Loan_Defaulter_Prediction/Codes/LoanDefaulterPrediction_BasicScreening.ipynb">Basic screening</a>
+1. <a style="color:green" href="https://github.com/Sneha1-1/Projects/blob/main/Loan_Defaulter_Prediction/Codes/LoanDefaulterPrediction_BasicScreening.ipynb">Basic screening</a>
 
 2. Data Preprocessing
 
