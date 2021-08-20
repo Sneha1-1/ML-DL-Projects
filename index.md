@@ -17,11 +17,13 @@
 
 1. <a href="https://github.com/Sneha1-1/Projects/blob/main/Loan_Defaulter_Prediction/Codes/LoanDefaulterPrediction_BasicScreening.ipynb">Basic screening</a>
 
-2. Data Preprocessing
+2. <a href="https://github.com/Sneha1-1/Projects/blob/main/Loan_Defaulter_Prediction/Codes/LoanDP_NATreatment.ipynb"> NA treatment </a>
 
 3. Feature Engineering and EDA
 
-5. Model Building
+5. Model Building pre steps
 
-6. Conclusions
+6. Model Building
+
+7. Conclusions
 
