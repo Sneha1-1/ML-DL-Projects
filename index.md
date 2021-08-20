@@ -1,15 +1,13 @@
 ## Welcome 
 
-You can use the [editor on GitHub](https://github.com/Sneha1-1/Projects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Projects contains below projects:
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Loan Defaulter Prediction
+
 
 ```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
