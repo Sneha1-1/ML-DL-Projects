@@ -11,9 +11,8 @@
 ### Path : <a href="https://github.com/Sneha1-1/Projects/tree/main/Loan_Defaulter_Prediction" > Loan Defaulter prediction</a>
 
 
-# The way the projects are done is as follows:
 
-## The tasks are divided into below points:
+## The Projects are divided into 6 sections :
 
 1. Basic screening
 
