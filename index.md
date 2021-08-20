@@ -14,7 +14,7 @@
 
 ## The Projects are divided into 6 sections :
 
-1. Basic screening
+1. <a href="https://github.com/Sneha1-1/Projects/blob/main/Loan_Defaulter_Prediction/Codes/LoanDefaulterPrediction_BasicScreening.ipynb">Basic screening</a>
 
 2. Data Preprocessing
 
