@@ -1,9 +1,9 @@
-<div style="color:white;background-color:darkblue">
+<div style="color:white;background-color:darkblue;width:100%;height:100px;border-radius:5px">
   
-# Welcome to the Sneha1-1/Projects Respository
+  <h1> Welcome to the Sneha1-1/Projects Respository</h1>
 
-### Author : Sneha Bhalerao
-### Respository Name : Projects
+  <h3> Author : Sneha Bhalerao</h3>
+  <h3> Respository Name : Projects</h3>
 </div>
   
 # The Repository contains below projects:  
