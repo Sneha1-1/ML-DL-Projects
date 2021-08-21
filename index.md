@@ -2,7 +2,7 @@
 
 Author : Sneha Bhalerao
 
-Respository Name : Projects
+Respository Name : ML-DL-Projects
   
 
 ### The Repository contains below projects:  
