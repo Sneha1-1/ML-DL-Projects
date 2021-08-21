@@ -1,4 +1,4 @@
-## Welcome to the Sneha1-1/Projects Respository
+## Welcome to the ML-DL-Projects Respository
 
 Author : Sneha Bhalerao
 
