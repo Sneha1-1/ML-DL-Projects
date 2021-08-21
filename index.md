@@ -12,6 +12,7 @@ Description : Whenever an individual/corporation applies for a loan from a bank,
 Language : Python
 
 Environment : Jupyter notebook
+
 Path : <a href="https://github.com/Sneha1-1/Projects/tree/main/Loan_Defaulter_Prediction" > Loan Defaulter prediction</a>
 
 
