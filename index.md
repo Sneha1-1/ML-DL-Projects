@@ -1,12 +1,11 @@
-<div style="color:white;background-color:darkblue;width:100%;height:100px;border-radius:5px">
-  
-  <h1> Welcome to the Sneha1-1/Projects Respository</h1>
+# Welcome to the Sneha1-1/Projects Respository
 
-  <h3> Author : Sneha Bhalerao</h3>
-  <h3> Respository Name : Projects</h3>
-</div>
+  ### Author : Sneha Bhalerao
+
+  ### Respository Name : Projects
   
-# The Repository contains below projects:  
+
+## The Repository contains below projects:  
 
 ### 1. Loan Defaulter Prediction
 
