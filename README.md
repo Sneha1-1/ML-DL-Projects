@@ -1,7 +1,7 @@
 # Welcome to the Sneha1-1/Projects Respository
 
-Author : Sneha Bhalerao
-Respository Name : Projects
+#### Author : Sneha Bhalerao
+#### Respository Name : Projects
 
 # The Repository contains below projects:  
 
