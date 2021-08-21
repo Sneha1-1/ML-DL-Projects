@@ -23,7 +23,7 @@ Path : <a href="https://github.com/Sneha1-1/Projects/tree/main/Loan_Defaulter_Pr
 
 1. <a href="https://github.com/Sneha1-1/Projects/blob/main/Loan_Defaulter_Prediction/Codes/LoanDefaulterPrediction_BasicScreening.ipynb">Basic screening</a>
 
-2. <a href="https://github.com/Sneha1-1/Projects/blob/main/Loan_Defaulter_Prediction/Codes/LoanDP_NATreatment.ipynb"> NA treatment </a>
+2. <a href="https://github.com/Sneha1-1/ML-DL-Projects/blob/main/Loan_Defaulter_Prediction/Codes/LoanDefaulterPrediction_NATreatment.ipynb"> NA treatment </a>
 
 3. Feature Engineering and EDA
 
