@@ -1,4 +1,4 @@
-# Welcome to the Sneha1-1/ML-DL-Projects 
+# Welcome to ML-DL-Projects 
 
 #### Author : Sneha Bhalerao
 #### Respository Name : ML-DL-Projects
