@@ -30,4 +30,18 @@ Path : <a href="https://github.com/Sneha1-1/Projects/tree/main/Loan_Defaulter_Pr
 
 7. Conclusions
 
+### 2. Bank Credit Card Defaulter Prediction
+
+Description : The banks with the intent of credit card were more focused on the number of customers using their credit service but the drawback of them not being able to pay back the credit in time was an issue that soon followed, a system was in need to effectively decide the credit limit to be allowed to a person based on his previous credit history
+
+Language : Python
+
+Environment : Jupyter notebook
+Path : <a href="https://github.com/Sneha1-1/Projects/tree/main/Loan_Defaulter_Prediction" > Loan Defaulter prediction</a>
+
+#### Outcome : 
+1. We will apply different models on the dataset and compare them.
+2. Learn how to build response encoded vector
+3. Learn how to build One Hot Encoded vectors
+4. Learn that oversampling helps improve performance in case of imbalanced dataset
 
