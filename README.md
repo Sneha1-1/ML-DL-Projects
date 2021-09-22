@@ -37,7 +37,7 @@ Description : The banks with the intent of credit card were more focused on the 
 Language : Python
 
 Environment : Jupyter notebook
-Path : <a href="https://github.com/Sneha1-1/Projects/tree/main/Loan_Defaulter_Prediction" > Loan Defaulter prediction</a>
+Path : <a href="https://github.com/Sneha1-1/ML-DL-Projects/tree/main/Bank-Credit-Card" > Bank Credit Card Defaulter</a>
 
 #### Outcome : 
 1. We will apply different models on the dataset and compare them.
