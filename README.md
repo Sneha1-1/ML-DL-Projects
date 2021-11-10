@@ -31,5 +31,5 @@ Description : Using the various past credit history and other data of a client a
 Language : Python
 
 Environment : Jupyter notebook
-Path : <a href="https://github.com/Sneha1-1/ML-DL-Projects/tree/main/home-credit-risk-default">Home Credit Risk Default </a>
+Path : <a href="https://github.com/Sneha1-1/ML-DL-Projects/tree/main/HomeCreditDefault">Home Credit Risk Default </a>
 
