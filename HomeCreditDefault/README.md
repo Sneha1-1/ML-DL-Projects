@@ -1,4 +1,4 @@
-# a) Introduction 
+#### a) Introduction 
       Banks manage the flow of money between people and businesses. They use the money 
       deposited in the banks by their customers (people/institutions) to offer loans to clients 
       (people/business/institutions).
@@ -6,7 +6,7 @@
       the money depositors in the bank keeping the rest with itself. They also charge money
       for the various products they offer to the clients. These two are the basic source of 
       money input to the banks.
-# b) Business problem
+#### b) Business problem
       As the banks working depends on the interest earned from the loans, it is of utmost 
       importance that the borrowers repay the loan timely else the banks will have to bear 
       huge loss. Therefore, it is important to calculate the risk associated with lending money 
@@ -27,7 +27,7 @@
       ratings downgrade/upgrade as well as those may arise from credit migration event.
       We will be looking at the credit default risk for this problem statement.
       Objective: To predict if the borrower will default on the loan repayments.
-# c) ML formulation of the business problem
+#### c) ML formulation of the business problem
       There are various factors in determining the credit risk of a borrower:
       1. Probability of default: probability that borrower will not be able to make timely 
       payments of installments
@@ -37,12 +37,12 @@
       decision to lend money is made.
       We need to automate this process using machine learning models by looking at the 
       various parameters from history of loans of the borrower.
-# d) Business constraints
+#### d) Business constraints
       1. No low latency requirements (10 sec to 2 mins is also fine)
       2. Very low error: As errors can be costly (example a borrower is given 1MUSD and he 
       defaults the bank can go bankrupt also. So errors can become very costly for the 
       banks)
-# e) Data set column analysis:
+#### e) Data set column analysis:
       File: application_data.csv
       Total 122 columns which are divided into below subcategories 
       1. Personal Details
@@ -66,7 +66,7 @@
       3. Identification ids.
       Other files: Installation, Bureau, Bureau_balance, POS_CASH_balance, credit_card_balance.
       
-# f) Performance metric:
+#### f) Performance metric:
       1. AUC score 
 
 
