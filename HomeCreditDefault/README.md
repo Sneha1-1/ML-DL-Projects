@@ -1,3 +1,7 @@
+### Home Credit Default Risk: Competition: <a href="https://www.kaggle.com/c/home-credit-default-risk/">Home Credit Default Risk</a>
+##### Data can be obtained from <a href="https://www.kaggle.com/c/home-credit-default-risk/data">here</a>
+
+
 #### a) Introduction 
       Banks manage the flow of money between people and businesses. They use the money 
       deposited in the banks by their customers (people/institutions) to offer loans to clients 
