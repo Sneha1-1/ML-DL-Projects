@@ -1,4 +1,4 @@
-### Home Credit Default Risk: Competition: <a href="https://www.kaggle.com/c/home-credit-default-risk/">Home Credit Default Risk</a>
+### Solution to the Competition problem statement: <a href="https://www.kaggle.com/c/home-credit-default-risk/">Home Credit Default Risk</a>
 ##### Data can be obtained from <a href="https://www.kaggle.com/c/home-credit-default-risk/data">here</a>
 
 
