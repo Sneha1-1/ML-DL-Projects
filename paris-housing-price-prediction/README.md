@@ -2,7 +2,7 @@
 
 #### Description:
 
-####### Data Columns:
+##### Data Columns:
 All attributes are numeric variables and they are listed bellow:
 
 squareMeters
@@ -23,9 +23,9 @@ hasStorageRoom
 hasGuestRoom - number of guest rooms
 price - predicted value
 
-####### Language and Environment:
+##### Language and Environment:
 Language : Python
 Environment : Jupyter notebook
 
-####### Dataset : 
+##### Dataset : 
 The Dataset was taken from <a href="https://www.kaggle.com/mssmartypants/paris-housing-price-prediction" > ParisHousingPricePrediction </a>
