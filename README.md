@@ -36,3 +36,11 @@ Environment : Jupyter notebook
 Path : <a href="https://github.com/Sneha1-1/Projects/tree/main/Loan_Defaulter_Prediction" > Loan Defaulter prediction</a>
 
 
+### 4. Handwriting Recognition
+
+Description: From the given IAMDataset which consists of images of handwritten words. Our task is to automate the process of recognising each word from the image file using deep learning.
+
+Language : Python
+
+Environment : Colab Notebook
+PAth: <a href="https://github.com/Sneha1-1/ML-DL-Projects/tree/main/Deep_Learning/Handwriting-Recognition" > Handwriting recognition </a>
