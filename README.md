@@ -43,4 +43,4 @@ Description: From the given IAMDataset which consists of images of handwritten w
 Language : Python
 
 Environment : Colab Notebook
-PAth: <a href="https://github.com/Sneha1-1/ML-DL-Projects/tree/main/Deep_Learning/Handwriting-Recognition" > Handwriting recognition </a>
+Path: <a href="https://github.com/Sneha1-1/ML-DL-Projects/tree/main/Deep_Learning/Handwriting-Recognition" > Handwriting recognition </a>
